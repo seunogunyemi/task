@@ -1,0 +1,34 @@
+.body {
+			font: sans-serif;
+		}
+
+h1	{
+		color: black;
+
+}
+
+.details {
+			text-align: center;
+			width: auto;
+			height: auto;
+			margin-left: 350px;
+}
+
+.skills {
+			border-right: 2px solid #ddd;
+			text-align: left;
+}
+
+.primary {
+			padding-bottom: 10px;
+}
+
+.work 	{
+			
+			width: auto;
+			height: auto;
+}
+
+.projects 	{
+				background-color:
+}
